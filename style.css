@@ -66,6 +66,26 @@ button:hover{
     background-image: url("./img/wpp.jpeg");
 }
 
+.darkrai{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-family: "Arial";
+    gap: 16px;
+    background-image: url("./img/dwpp.jpg");
+}
+
+.trevenant{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-family: "Arial";
+    gap: 16px;
+    background-image: url("./img/twpp.jpg");
+}
+
 .card{
     display: flex;
     flex-direction: column;
